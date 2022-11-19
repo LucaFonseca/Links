@@ -15,7 +15,9 @@ img {
     height: 320px;
     margin-left: 13px;
 }
-
+img:hover{
+    -webkit-filter:blur(0.6px)
+}
 h1 {
     color: white;
     margin-top: 31px;
